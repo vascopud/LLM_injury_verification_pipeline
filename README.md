@@ -12,3 +12,10 @@ Contents:
 - `requirements.txt` — Python dependencies
 - `.env.example` — template for API key configuration
 - `LICENSE`
+
+## Sample Input File
+
+For demonstration purposes, this repository includes a small file,
+`sample_extracted_text.txt`, containing two random entries from the full
+dataset. This sample illustrates the exact formatting expected by the parsing
+functions used in the pipeline notebooks.
